@@ -1,0 +1,30 @@
+body {
+    background-color: cornflowerblue;
+}
+#logo {
+    text-decoration: underline;
+    text-decoration-color:indigo;
+}
+#logo {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.newdiv {
+    
+    padding: 50px; 
+    color: blue;
+    background-color: cornflowerblue;
+    
+}
+.applook { text-decoration: underline;
+    border: blue solid;
+    padding: 50px;
+    background-color:cornflowerblue;
+    color: blue;
+}
+#flex {
+display: flex;  
+}
+select {
+    color: orangered;
+}

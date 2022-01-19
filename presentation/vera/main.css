@@ -1,0 +1,31 @@
+body{
+    background-color: purple;
+    scroll-behavior: smooth;
+}   
+#logo{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.offers {
+    size: 20px;
+}
+ div ul{
+    list-style: none;
+   background-color: yellow;
+   border-radius: 20%;
+   
+}
+
+h1{
+    text-align: center;
+    
+}
+section{
+    text-align: center;
+
+}
+
+
+
+

@@ -1,0 +1,40 @@
+body{background-color:teal;
+    scroll-behavior:smooth;
+}
+
+picture{margin: centre 28px;}
+ 
+
+
+
+nav ul {list-style:none;}
+ 
+ 
+ 
+ 
+ nav ul li{font-size: 28px;}
+ /*.main-nav{width:30%;}
+
+
+ #about-nav{float:right;}*/
+
+ .ads-section{background-color:aqua;
+
+height:25%;}
+
+div{
+
+    padding:2%;
+}
+
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+
+.footer{
+    background-color: black;
+    color:yellow;
+    text-align:center;
+}
+
