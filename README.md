@@ -1,4 +1,4 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+# [Start Bootstrap - SB Admin 2](https://studentprojects.netlify.app/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -8,7 +8,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 [![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
+**[Launch Live Preview](https://studentprojects.netlify.app/)**
 
 ## Status
 
